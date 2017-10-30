@@ -1,0 +1,17 @@
+0322140.jpg 193 predicted class is： 0
+0115323.jpg 193 predicted class is： 0
+0115321.jpg 193 predicted class is： 0
+0115320.jpg 193 predicted class is： 0
+0223417.jpg 193 predicted class is： 0
+0086280.jpg 86 predicted class is： 1
+0102689.jpg 86 predicted class is： 1
+0109414.jpg 86 predicted class is： 1
+0196418.jpg 86 predicted class is： 1
+0167564.jpg 86 predicted class is： 1
+0167566.jpg 86 predicted class is： 1
+0012471.jpg 86 predicted class is： 1
+0012472.jpg 86 predicted class is： 1
+0035619.jpg 86 predicted class is： 1
+0152157.jpg 86 predicted class is： 1
+0152150.jpg 86 predicted class is： 1
+0123191.jpg 86 predicted class is： 1
